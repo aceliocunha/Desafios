@@ -4,7 +4,7 @@
 
 Bem-vindo(a) ao **Desafios em C++**, o seu playground pessoal para dominar a linguagem mais poderosa (e às vezes traiçoeira) do mundo! Se você está aqui, provavelmente já sabe que C++ é como um superpoder: com grande poder vêm grandes... bugs. Mas não se preocupe, estamos juntos nessa jornada épica!
 
-Este repositório é um tesouro (ou um caldeirão borbulhante, dependendo do dia) de problemas desafiadores, exercícios intrigantes e quebra-cabeças que farão seus neurônios dançarem a "Dança do C++".
+Este repositório é um tesouro (ou um caldeirão borbulhante, dependendo do dia) de problemas desafiadores, exercícios intrigantes e quebra-cabeças que farão seus neurônios dançarem a (Dança do C++).
 
 **O que você vai encontrar por aqui?**
 
