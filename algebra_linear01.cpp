@@ -2,7 +2,6 @@
 using namespace std;
 using Vec = vector<double>;
 using Mat = vector<Vec>;
-constexpr double EPS = 1e-9;
 
 
 double dot(const Vec& a, const Vec& b) {
