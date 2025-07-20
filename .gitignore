@@ -32,7 +32,6 @@ cmake_install.cmake
 venv/
 env/
 
-# === Modelos de redes neurais (PyTorch, GNN) ===
 *.pt
 *.pth
 *.ckpt
@@ -50,7 +49,6 @@ env/
 *.zip
 *.tar.gz
 
-# === PyTorch Geometric ===
 tmp/
 temp/
 dataset/
